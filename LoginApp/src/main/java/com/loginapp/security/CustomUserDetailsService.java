@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 
 import com.loginapp.entity.Role;
 import com.loginapp.entity.User;
-import com.loginapp.model.UserRepo;
+import com.loginapp.repo.UserRepo;
 
 @Service
 public class CustomUserDetailsService implements UserDetailsService {

@@ -1,4 +1,4 @@
-package com.loginapp.model;
+package com.loginapp.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
